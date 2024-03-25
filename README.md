@@ -1,5 +1,7 @@
 # GH
-## ALUNOS : IVAN CARLOS AMARAL GALVÃO RIBEIRO, LUCAS SAITO SANZOVO, VICTOR MATOS TRAMONTINE
-A IDEIA INICIAL DO NOSSO APLICATIVO É PARA VOCÊ MONTAR E ARMAZENAR SEUS TREINOS ALÉM DE ENVIAR NOTIFICAÇÕES PARA VOCÊ BEBER AGUA, HORA DO TREINO, TOMAR SUPLEMENTOS, ENTRE OUTROS. <br />
+## ALUNOS : Ivan Carlos Amaral, Lucas Saito Sanzovo, Lucas Henrique dos Santos, João Filipe Castoldo, Arthur Ivaza Costa.
+Nosso App tem seu tema voltado ao desenvolvimento de um site para organização de treino em academias.
+O objetivo do site é facilitar a gestão e execução de rotinas de treinamento físico através de uma plataforma online, intuitiva e eficiente.
+ <br />
 <br />
-TAMBEM SERA POSSIVEL COLOCAR SUA ROTINA DE ALIMENTAÇÃO E DE TREINOS, ARMAZENAR SEU PROGRESSO E DOCUMENTOS.
+
