@@ -9,4 +9,5 @@ aberto à participação da população. Seu objetivo é difundir conquistas e b
 científicos e tecnológicos, promovendo interação, intercâmbio e complementaridade entre diferentes áreas de conhecimento
  <br />
 Site: https://ghapp3.wordpress.com <br />
+Slide Pitch : https://www.canva.com/design/DAGAgYp7IQY/PJKaOhC9dzxhR3S57g0pxA/edit?utm_content=DAGAgYp7IQY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
